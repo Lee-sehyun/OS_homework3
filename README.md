@@ -21,7 +21,7 @@ If you enter "make clean" inside the HW3 folder, all files created will be remov
 
 Video link
 ---------------
-
+https://youtu.be/60_F6NT2hMQ
 
 
 
@@ -71,3 +71,4 @@ HW3폴더 안에서 make clean을 입력하면 만들어진 파일들을 전부 
 
 동영상 링크
 ------------
+https://youtu.be/60_F6NT2hMQ
